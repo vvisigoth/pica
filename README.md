@@ -17,3 +17,14 @@ Reqs
 
 - Interface via text message
 
+
+##TODO
+
+- TextRazor
+- MMR (entities)
+- Unified Spritz App
+
+- Spritz user flow
+    - Links
+    - Lists
+    - Images
